@@ -21,4 +21,3 @@ def second_challenge
 
 
 end 
- 20  lib/third_challenge.rb 
